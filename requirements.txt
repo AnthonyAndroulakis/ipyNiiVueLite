@@ -35,4 +35,4 @@ ipywidgets>=8.0.0,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
 ipyevents>=2.0.1
 # Python: NiiVue for Jupyter notebooks (optional)
-ipyniivue>=1.0.1
+ipyniivue>=1.0.0
